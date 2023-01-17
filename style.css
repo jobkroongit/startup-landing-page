@@ -1,0 +1,59 @@
+html, body, {
+	width: 100%;
+  	height: 100%;
+  	font-family: 'Inter', sans-serif;
+  	font-size: 16px;
+  	background-color: white;
+}
+
+p {
+	font-size: 1.2rem;
+}
+
+h1 {
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	font-size: 5rem;
+
+}
+
+h2 {
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	font-size: 2rem;
+}
+
+.row {
+	margin-top: 6em;
+}
+
+.header {
+	margin-top: 12rem;
+}
+
+.text-center {
+	margin-top: 2rem;
+}
+
+.buffer {
+	padding-top: 1.5rem;
+}
+
+.blue-text {
+	color: blue;
+}
+
+.btn-xl {
+	margin-right: 2rem;
+	padding: 1rem 2rem;
+}
+
+.navbar-brand {
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+}
+
+a {
+	padding-right: 3rem;
+	padding-left: 2rem;
+}
